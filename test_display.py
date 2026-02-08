@@ -1,7 +1,7 @@
-from inky.auto import auto
+from inky.impression import InkyImpression
 from PIL import Image, ImageDraw
 
-display = auto(spidev_cs=True)
+display = InkyImpression()
 
 img = Image.new("P", display.resolution, 255)
 draw = ImageDraw.Draw(img)
