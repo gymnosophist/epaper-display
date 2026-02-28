@@ -1,0 +1,15 @@
+certifi==2026.1.4
+charset-normalizer==3.4.4
+dotenv==0.9.9
+gpiod==2.4.0
+gpiodevice==0.0.5
+idna==3.11
+inky==2.3.0
+numpy==2.0.2
+pillow==11.3.0
+pkg_resources==0.0.0
+python-dotenv==1.2.1
+requests==2.32.5
+smbus2==0.6.0
+spidev==3.8
+urllib3==2.6.3
